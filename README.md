@@ -1,1 +1,2 @@
 # Energy-Efficient-CPU-Scheduling-Algorithm
+The goal of this project is to create a CPU scheduling algorithm that uses the least amount of energy while maintaining performance.  Particularly for embedded and mobile devices, where power efficiency is essential, the algorithm was created.  This project uses less energy and delivers optimal performance by combining Power-Aware Task Prioritization with Dynamic Voltage and Frequency Scaling (DVFS).
